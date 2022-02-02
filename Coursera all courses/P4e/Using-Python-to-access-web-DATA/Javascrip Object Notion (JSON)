@@ -1,0 +1,15 @@
+import json
+data = '''{
+"name" : "Basit Hussain",
+"phone" : {
+"type" : "int",
+"number" : "+92 123 24 412421"
+},
+"email" : {
+"hide" : "Yes"
+}
+}'''
+
+info = json.loads(data)
+print('Name:',info["name"])
+print('Hide:',info["email"]['hide'])
