@@ -35,7 +35,7 @@
     `zap = PartyAnimal()`
 - Clear out all the data in the PartyAnimal variable and put the old values for the data in zap
 - Subtract the value of the zap variable from the value in the PartyAnimal variable and put the difference in zap
-- Use the PartyAnimal template to make a new object and assign it to zap
+- **Use the PartyAnimal template to make a new object and assign it to zap**
 - Copy the value from the PartyAnimal variable to the variable zap
 
 6. 
