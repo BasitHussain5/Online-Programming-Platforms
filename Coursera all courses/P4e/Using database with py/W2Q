@@ -7,10 +7,10 @@
 
 2. Which of these is the right syntax to make a new database?
 
-* MAKE DATASET people;
+* **MAKE DATASET people;**
 * CREATE people;
 * MAKE people;
-* **CREATE DATABASE people;**
+* CREATE DATABASE people;
 
 3. Which SQL command is used to insert a new row into a table?
 
