@@ -1,0 +1,11 @@
+Why create an algorithm?
+
+A. Because computers are better at solving problems.
+B. So that you don't have to solve the problem yourself.
+C. So that you have a general solution to a problem.
+D. Because you need a set of instructions to follow.
+Ans (c)
+
+Write code to print out the phrase “Hello World”.
+
+print("Hello World")
