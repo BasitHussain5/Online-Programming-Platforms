@@ -1,0 +1,35 @@
+1.
+Question 1
+Introduction and Learning Outcomes
+The goal of this assignment is to practice with logarithms that appear frequently in the analysis of algorithms.
+
+Recall that \log_anlog 
+a
+​
+ n is the power to which you need to raise aa in order to obtain nn.
+
+The main rules for working with logarithms are the following:
+
+loga(nk)=klogan
+loga(nm)=logan+logam
+nlogab=blogan
+logan⋅logba=logbn
+
+
+Q1: Is it true that  (\log_5n)^2=2\log_5n
+Ans: NO
+
+Q2: log_2n \cdot \log_32 = \log_3nlog
+Ans: Yes
+
+Q3: nlog2n=n
+Ans: No
+
+Q4: log3(2n)=log32⋅log3n
+Ans: No
+
+Q5: log10(n2)=2log10n
+Ans: Yes
+
+Q6: n^{\log_73}=7^{\log_3n}nlog 73=7log3n
+Ans: No
