@@ -1,0 +1,14 @@
+1.
+Question 1
+Introduction and Learning Outcomes
+The goal of this assignment is to practice with big-O notation.
+
+Recall that we write f(n)=O(g(n))f(n)=O(g(n)) to express the fact that f(n)f(n) grows no faster than g(n)g(n): there exist constants NN and c>0c>0 so that for all n \ge Nn≥N, f(n) \le c \cdot g(n)f(n)≤c⋅g(n).
+
+1.No
+2.No
+3.Yes
+4.No
+5.No
+6.No
+7.Yes
