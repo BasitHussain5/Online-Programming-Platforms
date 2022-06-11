@@ -1,0 +1,10 @@
+inp = input().upper()
+if len(inp) == 4:
+    a = inp.count(inp[0])
+    b = inp.count(inp[1])
+    c = inp.count(inp[2])
+    d = inp.count(inp[3])
+if a == 2 and b == 2 and c == 2 and d == 2:
+    print("Yes")
+else:
+    print("No")
