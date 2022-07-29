@@ -1,0 +1,59 @@
+1.
+Question 1
+Which of the following are key concepts found in all object-oriented programming languages, according to the lessons in this module?
+Ans:
+Polymorphism
+Inheritance
+Abstraction
+
+Question 2
+Which of the following are examples of data abstraction features supported by Java, according to the lessons in this module?
+Ans:
+Interfaces
+Classes
+
+Question 3
+Which of the following is the best definition of an "abstract data type" (ADT), according to the lessons in this module?
+Ans:
+An ADT defines a set of data values and a set of operations on these values.
+
+Question 4
+Which of the following are accurate descriptions of differences between Java classes and interfaces, according to the lessons in this module?
+Ans:
+A Java interface cannot be instantiated directly, whereas a class can.
+
+Question 5
+Which of the following are benefits of Java generics, according to the lessons in this module?
+Ans:
+They help eliminate unnecessary duplication of code.
+They ensure compile-type safety when operating on different types.
+
+Question 6
+Which of the following are benefits of inheritance in Java, according to the lessons in this module?
+Ans:
+It enhances reuse by allowing classes to reuse common state and behavior from other class. 
+
+Question 7
+Which of the following describe the purpose of exception handling in Java, according to the lessons in this module?
+Ans:
+It separates the control flow paths of normal app execution from the control flow paths of anomalous app execution.
+It makes Java apps more robust and easier to understand and evolve.
+
+Question 8
+Which of the following describe the purpose of polymorphism in Java, according to the lessons in this module?
+Ans:
+It enables transparent customization of methods in a subclass that are inherited from a super class.
+
+Question 9
+Which of the following are expectations of learners who take this MOOC, according to the lessons in this module?
+Ans:
+You are expected to be interested in both the concepts and practice of developing mobile apps
+You are expected have basic computer literacy skills, such as knowing how to send & receive emails and browse the web.
+
+Question 10
+Which of the following are recommended strategies for learning the material covered in this MOOC, according to the lessons in this module?
+Ans:
+Follow the links to articles, tutorials, source code, and documentation provided in the lesson slides.
+Attend Coursera meet up groups near you.
+Participate in the online discussion forums.
+Watch the lessons carefully before taking the quizzes and doing the programming assignments.
